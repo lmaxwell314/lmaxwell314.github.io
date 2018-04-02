@@ -2,5 +2,9 @@ body {
 	text-align: left;
 	background: url("https://images.pexels.com/photos/434033/pexels-photo-434033.jpeg?cs=srgb&dl=animal-blur-cat-434033.jpg&fm=jpg, https://www.pexels.com/photo/animal-blur-cat-cat-face-434033/");
 	background-size: cover;
-	
+	color: #fff;
+	font-family: Arial;
+}
+#slogan {
+	font-style: italic;
 }
