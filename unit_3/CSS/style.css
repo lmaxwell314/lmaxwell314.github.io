@@ -3,8 +3,31 @@ body {
 	background: url("https://images.pexels.com/photos/434033/pexels-photo-434033.jpeg?cs=srgb&dl=animal-blur-cat-434033.jpg&fm=jpg, https://www.pexels.com/photo/animal-blur-cat-cat-face-434033/");
 	background-size: cover;
 	color: #fff;
-	font-family: Arial;
+	font-family: Helvetica;
+	font-weight: 500; 
 }
+#header { 
+border-bottom: solid gray 1px;
+overflow:auto;
+ }
+ #header h1 {
+ 	float: left;
+ 	display: inline-block;
+ 	font-size: 22px;
+ }
+ #header ul {
+ 	float:right;
+ 	list-style-type: none;
+ }
+ #header ul li {
+ 	display: inline-block;
+ 	float:left;
+ 	margin-right:10px;
+ }
+ 
 #slogan {
 	font-style: italic;
+}
+#footer {
+	text-align: center;
 }
