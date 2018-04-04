@@ -27,11 +27,28 @@ nav a:hover {
 #intro {
 	background: url("../Images/animal-blur-cat-434033.jpg");
 	background-size: cover;
-	font-style: italic;
-	font-size: 2em;
+	font-size: 20px;
+	text-align: left;
 	height: 85vh;
-	color: #fff;
-	padding: 5em 0 0 5em;
+	color: inherit;
+	padding-left: 1em
+}
+#about {
+	background: url("../Images/gray_cat.jpg");
+	background-size: cover;
+	font-size: 1em;
+	font-weight: normal;
+	text-align: center;
+	height: 50vh;
+	color: inherit;
+	padding: 2em 4em 0 2em;
+
+}
+#solution {
+	background: url("../Images/adorable-animal-cat-54632.jpg");
+	background-size: cover;
+	font-size: 1em;
+	height: 65vh;
 }
 footer {
 	text-align: center;
