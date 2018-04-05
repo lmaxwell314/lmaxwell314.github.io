@@ -7,6 +7,7 @@ body {
 }
 header { 
 	border-bottom: solid gray 1px;
+	overflow: auto; 
 }
 section {
 	padding: 5em 0;
@@ -14,6 +15,9 @@ section {
 .logo {
  	font-size: 22px;
 }
+nav { 
+	display: inline-block; 
+} 
 nav a {
  	display: inline-block;
  	padding:1em;
@@ -24,9 +28,14 @@ nav a:hover {
 	background:orange;
 	color:#fff;
 }
-nav a .social { 
+nav a .social, .socialWrap a .social { 
 	width: 20px;
     	margin-bottom: -4px;
+} 
+
+.socialWrap { 
+	float: right;
+	padding-top: 17px;  
 } 
 
 #intro {
