@@ -24,6 +24,11 @@ nav a:hover {
 	background:orange;
 	color:#fff;
 }
+nav a .social { 
+	width: 20px;
+    	margin-bottom: -4px;
+} 
+
 #intro {
 	background: url("../Images/animal-blur-cat-434033.jpg");
 	background-size: cover;
