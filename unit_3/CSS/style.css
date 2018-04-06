@@ -52,6 +52,7 @@ nav a .social {
 	background: url("../Images/cat_image.jpg");
 	background-size: cover;
 	height: 50vh;
+	background-position: center 67%;
 }
 
 #solution {
