@@ -43,7 +43,7 @@ nav a .social {
 #about {
 	background: url("../Images/gray_cat.jpg");
 	background-size: cover;
-	background-position: center 100%
+	background-position: center 100%;
 	font-size: 20px;
 	text-align: left;
 	height: 90vh;
@@ -68,6 +68,7 @@ nav a .social {
 	height: 90vh;
 	line-height: 2em;
 	text-align: center;
+
 }
 footer {
 	text-align: center;
