@@ -43,7 +43,7 @@ nav a .social {
 #about {
 	background: url("../Images/gray_cat.jpg");
 	background-size: cover;
-	background-position: center 100%
+	background-position: center 100%;
 	font-size: 20px;
 	text-align: left;
 	height: 90vh;
@@ -51,6 +51,10 @@ nav a .social {
 	padding: 2em 4em 0 2em;
 	line-height: 2em;
 }
+#about h2 { 
+	max-width: 50%;
+	color: white;  
+} 
 #fish {
 	background: url("../Images/cat_image.jpg");
 	background-size: cover;
