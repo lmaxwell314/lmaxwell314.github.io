@@ -2,8 +2,9 @@
 body {
 	color:#333;
 	text-align: left;
-	font-family: Helvetica, arial, sans-serif;
-	font-weight: 400;
+	font-family: 'Open Sans', sans-serif
+	line-height: 28px;
+	margin: 30px;
 }
 header { 
 	border-bottom: solid gray 1px;
@@ -11,6 +12,7 @@ header {
 section {
 	padding: 5em 0;
 }
+
 .logo {
  	font-size: 22px;
 }
@@ -34,32 +36,38 @@ nav a .social {
 	background-size: cover;
 	font-size: 20px;
 	text-align: left;
-	height: 85vh;
+	height: 120vh;
 	color: inherit;
 	padding-left: 1em
 }
 #about {
 	background: url("../Images/gray_cat.jpg");
 	background-size: cover;
-	font-size: 1em;
-	font-weight: normal;
-	text-align: center;
-	height: 65vh;
-	color: inherit;
+	background-position: center 100%
+	font-size: 20px;
+	text-align: left;
+	height: 90vh;
+	color: black;
 	padding: 2em 4em 0 2em;
+	line-height: 2em;
 }
 #fish {
 	background: url("../Images/cat_image.jpg");
 	background-size: cover;
-	height: 50vh;
+	height: 120vh;
 	background-position: center 67%;
+	line-height: 2em;
+	text-align: left;
+	font-size: 20px;
 }
 
 #solution {
-	background: url("../Images/adorable-animal-cat-54632.jpg");
+	background: url("../Images/newcat.jpg");
 	background-size: cover;
-	font-size: 1em;
-	height: 65vh;
+	font-size: 18px;
+	height: 90vh;
+	line-height: 2em;
+	text-align: center;
 }
 footer {
 	text-align: center;
