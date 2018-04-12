@@ -63,10 +63,13 @@ nav a .social {
 	height: 90vh;
 	background-position: center;
 	line-height: 1.5em;
-	text-align: left;
-	font-size: 20px;
+	font-size: 18px;
 }
-
+#fish h2 {
+	max-width: 50%;
+	float: right;
+	text-align: left;
+}
 #solution {
 	background: url("../Images/newcat.jpg");
 	background-size: cover;
