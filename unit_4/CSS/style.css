@@ -69,6 +69,7 @@ nav a .social {
 	max-width: 50%;
 	float: right;
 	text-align: left;
+	padding: 2em 3em 3em 2em;
 }
 #solution {
 	background: url("../Images/newcat.jpg");
@@ -78,6 +79,9 @@ nav a .social {
 	line-height: 1.5em;
 	text-align: left;
 	padding: 2em 4em 4em 4em;
+}
+#solution h2 {
+	max-width: 90%
 }
 
 footer {
