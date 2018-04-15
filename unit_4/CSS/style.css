@@ -84,6 +84,11 @@ nav a .social {
 	max-width: 90%
 }
 
+#cookie {
+	max-height: 1000px;
+	max-width: 1300px;
+}
+
 footer {
 	text-align: center;
 	padding-top: 2em;
