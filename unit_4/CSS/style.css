@@ -13,6 +13,19 @@ section {
 	padding: 5em 0;
 }
 
+	section#body { 
+		padding: 1em 0;	
+	}
+	section#body h1 { 
+		padding-bottom: 17px;
+	}
+	section#body #cookie {
+		max-width: 900px;
+    	margin: 0 auto;
+    	text-align: center;
+    	display: inherit;
+	}
+
 .logo {
  	font-size: 22px;
 }
