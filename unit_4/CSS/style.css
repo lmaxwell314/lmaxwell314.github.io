@@ -15,15 +15,23 @@ section {
 
 	section#body { 
 		padding: 1em 0;	
+		font-size: 18px;
+	
 	}
 	section#body h1 { 
-		padding-bottom: 17px;
+		padding-bottom: 20px;
+		text-align: center;
 	}
 	section#body #cookie {
 		max-width: 900px;
     	margin: 0 auto;
     	text-align: center;
     	display: inherit;
+	}
+	section#body #kitten {
+		max-width: 500px;
+		height: auto;
+		margin: 2em;
 	}
 
 .logo {
