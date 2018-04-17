@@ -16,12 +16,14 @@ section {
 	section#body { 
 		padding: 1em 0;	
 		font-size: 20px;
+		line-height: 1.5em;
 
 	}
 	section#body h1 { 
 		padding-bottom: 20px;
 		text-align: center;
 		font-family: 'Montserrat', sans-serif;
+		text-decoration: underline;
 	}
 	section#body h2{
 		font-family: 'Montserrat', sans-serif;
@@ -37,6 +39,7 @@ section {
 		max-width: 500px;
 		height: auto;
 		margin: 2em;
+
 	}
 	#second {
 		padding: 3em;
@@ -120,13 +123,13 @@ nav a .social {
 
 footer {
 	text-align: center;
-	padding-top: 2em;
-	padding-bottom: 2em;
+	padding-top: 1em;
+	padding-bottom: 1em;
 	font-family: 'Montserrat', sans-serif;
 }
 footer nav { 
-	margin-top: 210px;
-	margin-bottom: 100px;  
+	margin-top: 30px;
+	margin-bottom: 30px;  
 } 
 footer nav a { 
 	background: rgba(0,0,0,0.3); 
