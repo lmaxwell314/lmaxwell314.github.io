@@ -15,12 +15,17 @@ section {
 
 	section#body { 
 		padding: 1em 0;	
-		font-size: 18px;
-	
+		font-size: 20px;
+
 	}
 	section#body h1 { 
 		padding-bottom: 20px;
 		text-align: center;
+		font-family: 'Montserrat', sans-serif;
+	}
+	section#body h2{
+		font-family: 'Montserrat', sans-serif;
+		color: gold;
 	}
 	section#body #cookie {
 		max-width: 900px;
@@ -32,6 +37,9 @@ section {
 		max-width: 500px;
 		height: auto;
 		margin: 2em;
+	}
+	#second {
+		padding: 3em;
 	}
 
 .logo {
