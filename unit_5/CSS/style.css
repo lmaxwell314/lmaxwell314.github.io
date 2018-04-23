@@ -31,11 +31,17 @@ section {
 		color: gold;
 		text-align: center;
 	}
+	section#body h3{
+		color:gold;
+		text-decoration: underline;
+		text-align: center;
+	}
 	section#body #cookie {
 		max-width: 900px;
     	margin: 0 auto;
     	text-align: center;
     	display: inherit;
+    	border: thin solid;
 	}
 	section#body #kitten {
 		max-width: 600px;
