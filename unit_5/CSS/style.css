@@ -61,10 +61,13 @@ section {
 	.storyleft { 
 		width: 50%; 
 		float: left; 
+		border-right: thin solid;
+		padding: .25em;
 	} 
 	.storyright { 
 		width: 50%; 
 		float: right; 
+		padding: .25em;
 	} 	
 
 button.callAct { 
