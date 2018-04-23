@@ -46,6 +46,10 @@ section {
 	#second {
 		padding: 3em;
 	}
+button.callAct { 
+	font-size: 21px;
+	padding: 14px;  
+} 
 
 .logo {
  	font-size: 22px;
