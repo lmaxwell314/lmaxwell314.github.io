@@ -38,7 +38,7 @@ section {
     	display: inherit;
 	}
 	section#body #kitten {
-		max-width: 500px;
+		max-width: 600px;
 		height: auto;
 		margin: 2em;
 
@@ -61,7 +61,13 @@ section {
 
 button.callAct { 
 	font-size: 21px;
-	padding: 14px;  
+	padding: .25em; 
+	background-color: gold;
+	text-align: center;
+	color: white; 
+	text-decoration: none;
+	display: black;
+	text-transform: none;
 } 
 
 .logo {
@@ -83,6 +89,11 @@ nav a .social {
 	width: 40px;
     	margin-bottom: -10px;
 } 
+
+nav a .logoimage{
+	float: right;
+	max-width: 100px;
+}
 
 #intro {
 	background: url("../Images/animal-blur-cat-434033.jpg");
@@ -144,14 +155,7 @@ nav a .social {
 	max-height: 1000px;
 	max-width: 1300px;
 }
-#cta {
-	display: black;
-	border-radius: .25em;
-	background: green;
-	color: white;
-	text-decoration: none;
-	padding: .5em;
-}
+
 
 footer {
 	text-align: center;
