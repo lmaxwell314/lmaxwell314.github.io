@@ -41,6 +41,7 @@ section {
 		max-width: 600px;
 		height: auto;
 		margin: 2em;
+		border: thin solid;
 
 	}
 	#second {
@@ -49,6 +50,7 @@ section {
 	/* CSS for columns */ 
 	article.clientwrapper { 
 		overflow: auto; 
+		padding: 1em;
 	} 
 	.storyleft { 
 		width: 50%; 
