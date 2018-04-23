@@ -46,6 +46,19 @@ section {
 	#second {
 		padding: 3em;
 	}
+	/* CSS for columns */ 
+	article.clientwrapper { 
+		overflow: auto; 
+	} 
+	.storyleft { 
+		width: 50%; 
+		float: left; 
+	} 
+	.storyright { 
+		width: 50%; 
+		float: right; 
+	} 	
+
 button.callAct { 
 	font-size: 21px;
 	padding: 14px;  
