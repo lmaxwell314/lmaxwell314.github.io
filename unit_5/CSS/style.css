@@ -63,11 +63,13 @@ section {
 		float: left; 
 		border-right: thin solid;
 		padding: .25em;
+	
 	} 
 	.storyright { 
 		width: 50%; 
 		float: right; 
 		padding: .25em;
+		
 	} 	
 
 button.callAct { 
@@ -101,10 +103,6 @@ nav a .social {
     	margin-bottom: -10px;
 } 
 
-nav a .logoimage{
-	float: right;
-	max-width: 100px;
-}
 
 #intro {
 	background: url("../Images/animal-blur-cat-434033.jpg");
