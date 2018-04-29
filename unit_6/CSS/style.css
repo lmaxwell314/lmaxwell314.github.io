@@ -28,7 +28,7 @@ section {
 	section#body h2{
 		font-family: 'Montserrat', sans-serif;
 		color: gold;
-		text-align: left;
+		text-align: center;
 	}
 	section#body h3{
 		color:gold;
@@ -61,13 +61,13 @@ section {
 		width: 50%; 
 		float: left; 
 		border-right: thin solid;
-		padding: .25em;
+		padding: 2em;
 	
 	} 
 	.storyright { 
 		width: 50%; 
 		float: right; 
-		padding: .25em;
+		padding: 2em;
 		
 	} 	
 
