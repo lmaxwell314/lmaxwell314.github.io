@@ -28,12 +28,12 @@ section {
 	section#body h2{
 		font-family: 'Montserrat', sans-serif;
 		color: gold;
-		text-align: center;
+		text-align: left;
 	}
 	section#body h3{
 		color:gold;
 		text-decoration: underline;
-		text-align: center;
+		text-align: left;
 	}
 	section#body #cookie {
 		max-width: 900px;
