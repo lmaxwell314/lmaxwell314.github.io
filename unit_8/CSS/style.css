@@ -182,7 +182,7 @@ footer nav a {
 }
 
 
-@media all and (max-width: 912px) { 
+@media all and (max-width: 1009px) { 
 	section h2 { 
 		font-size: 13px !important; 
 	} 
