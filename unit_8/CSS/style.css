@@ -200,3 +200,10 @@ footer nav a {
 
 	}
 }
+
+@media all and (max-width: 650px) {
+	#intro {
+		font-size: 1em;
+
+	}
+}
