@@ -15,7 +15,7 @@ section {
 
 	section#body { 
 		padding: 1em 0;	
-		font-size: 20px;
+		font-size: 1em;
 		line-height: 1.5em;
 
 	}
@@ -72,7 +72,7 @@ section {
 	} 	
 
 button.callAct { 
-	font-size: 21px;
+	font-size: 1.5em;
 	padding: .25em; 
 	background-color: gold;
 	text-align: center;
@@ -83,7 +83,7 @@ button.callAct {
 } 
 
 .logo {
- 	font-size: 22px;
+ 	font-size: 1.25em;
 }
 nav a {
  	display: inline-block;
@@ -108,7 +108,7 @@ nav a .social {
 #intro {
 	background: url("../Images/animal-blur-cat-434033.jpg");
 	background-size: cover;
-	font-size: 20px;
+	font-size: 1.25em;
 	text-align: left;
 	height: 120vh;
 	color: inherit;
@@ -118,7 +118,7 @@ nav a .social {
 	background: url("../Images/gray_cat.jpg");
 	background-size: cover;
 	background-position: center 100%;
-	font-size: 20px;
+	font-size: 1.25em;
 	text-align: left;
 	height: 90vh;
 	color: black;
@@ -135,7 +135,7 @@ nav a .social {
 	height: 90vh;
 	background-position: center;
 	line-height: 1.5em;
-	font-size: 18px;
+	font-size: 1.25em;
 }
 #fish h2 {
 	max-width: 50%;
@@ -146,7 +146,7 @@ nav a .social {
 #solution {
 	background: url("../Images/newcat.jpg");
 	background-size: cover;
-	font-size: 18px;
+	font-size: 1em;
 	height: 90vh;
 	line-height: 1.5em;
 	text-align: left;
@@ -169,13 +169,13 @@ nav a .social {
 
 footer {
 	text-align: center;
-	padding-top: 9em;
-	padding-bottom: 5em;
+	padding-top: 2em;
+	padding-bottom: 2em;
 	font-family: 'Montserrat', sans-serif;
 }
 footer nav { 
-	margin-top: 30px;
-	margin-bottom: 30px;  
+	margin-top: 1em;
+	margin-bottom: 1em;  
 } 
 footer nav a { 
 	background: rgba(0,0,0,0.3); 
