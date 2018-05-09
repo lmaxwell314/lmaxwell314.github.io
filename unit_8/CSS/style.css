@@ -209,23 +209,38 @@ footer nav a {
 }
 @media all and (max-width: 400px) {
 	section h2 {
-		font-size: 7px !important;
+		font-size: 10px !important;
+		padding: none;
 	}
 }
 @media all and (max-width: 400px) {
 	#intro {
-		background-position: -400px;
+		background-position: -500px;
 	}
 }
 @media all and (max-width: 400px) {
 
 	#intro {
 		font-size: .5em;
+		padding: none;
 	}
 }
 
 @media all and (max-width: 400px) {
 	button.callAct {
 		font-size: .5em;
+	}
+}
+
+@media all and (max-width: 400px) {
+	#about h2 {
+		max-width: 100%;
+		font-size: 10px;
+	}
+}
+@media all and (max-width: 400px) {
+	#fish h2{
+		max-width: 100%;
+		font-size: 10px;
 	}
 }
