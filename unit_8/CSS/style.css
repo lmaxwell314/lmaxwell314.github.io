@@ -207,3 +207,25 @@ footer nav a {
 
 	}
 }
+@media all and (max-width: 400px) {
+	section h2 {
+		font-size: 7px !important;
+	}
+}
+@media all and (max-width: 400px) {
+	#intro {
+		background-position: -400px;
+	}
+}
+@media all and (max-width: 400px) {
+
+	#intro {
+		font-size: .5em;
+	}
+}
+
+@media all and (max-width: 400px) {
+	button.callAct {
+		font-size: .5em;
+	}
+}
