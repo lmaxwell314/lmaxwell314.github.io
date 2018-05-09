@@ -193,3 +193,10 @@ footer nav a {
 		background-position: -241px;
 	}
 }
+
+@media all and (max-width: 600px) {
+	button.callAct {
+		font-size: 1em;
+
+	}
+}
